@@ -1,2 +1,2 @@
 # AI-weather-app
-It's a weather app built with JavaScript that fetches real-time data from OpenWeather API and uses OpenAI API to generate smart, fun weather suggestions. It includes API integration, async/await handling, and dynamic UI updates for an interactive user experience.
+It's a weather app that fetches real-time weather data using the OpenWeather API and generates smart, fun suggestions using the OpenAI API. It demonstrates API integration, async/await handling, and dynamic UI updates for an interactive and user-friendly experience.
